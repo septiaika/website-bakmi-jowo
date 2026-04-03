@@ -6,7 +6,7 @@
 /* ===== BANNER ===== */
 .banner{
     height:700px;
-    background:url('{{ asset("images/banner.png") }}') center/cover no-repeat;
+    background:url('{{ asset("images/banner2.png") }}') center/cover no-repeat;
     opacity:0;
     transform:translateY(-60px);
     transition:1.2s ease;
